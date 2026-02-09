@@ -54,10 +54,17 @@ Fell down the crypto rabbit hole. Built an automated welcome nft on Loopring
 infrastructure. Learned Solidity, Rode it down, Lost it all, Touched grass, 
 NGMI, moved on.
 
-**2024 - NoTambourine**
+**2024 - 8(NoTambourine)8**
 Went independent. Same playbook, own terms. Fractional CTO for PE portfolios
 and growth-stage companies. 3-4 days/week embedded. Build the team, then leave.
 [notambourine.com](https://notambourine.com)
+
+**2025 - Speedrunning ETH (Batch 23)**
+Came back to crypto through [Speedrun Ethereum](https://speedrunethereum.com/)
+and [Batch 23](https://batch23.buidlguidl.com). Submitting transactions on
+mainnet, [CTF challenges](https://ctf.buidlguidl.com/profile/0x882EC52E30cA90C3fcF6fC632d9a31061FAee789), 
+hands-on Solidity. Less about shipping a product, more about finding joy in
+the chain again.
 
 **2026 - Back at the Tables**
 Gaunlet AI Fellow / Cohort 4.

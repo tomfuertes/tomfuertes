@@ -1,1 +1,1 @@
-# Tom Fuertes / Fractional CTO at [NoTambourine](https://notambourine.com).
+# Tom Fuertes / Fractional CTO via [NoTambourine](https://notambourine.com).

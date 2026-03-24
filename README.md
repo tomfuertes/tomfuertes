@@ -1,3 +1,3 @@
 # Tom Fuertes
 
-Work w/ me: [NoTambourine](https://notambourine.com).
+[NoTambourine](https://notambourine.com).

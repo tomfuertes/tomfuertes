@@ -9,5 +9,3 @@ Boutique AI-native engineering agency. Engineering you can see in the numbers.
 - Launch a product, automate routine work, or connect systems and data.
 
 20 years of organizational-change experience across more than 250 engagements.
-
-[Start a conversation](https://notambourine.com/tom)
